@@ -123,7 +123,7 @@ look at the entire quadrant in a single display.</para>
 <para>Enemies recharge during your absence.  If you leave a quadrant
 containing a weakened enemy, when you return to that quadrant he will
 be strong again.  Also, each time you enter a quadrant, the positions
-of everthing in the quadrant (except your ship) are randomized, to
+of everything in the quadrant (except your ship) are randomized, to
 save you the trouble of trying to remember where everything in the
 quadrant is.  Notice that this refers only to the positions of things
 in the quadrant&mdash;the numbers of each kind of thing are not changed
@@ -185,10 +185,10 @@ than than can in flight.</para>
 contains (surprise) stars.  Mostly, stars are a nuisance and just get
 in your way.  You can trigger a star into going nova by shooting one
 of your photon torpedoes at it.  When a star novas, it does a lot of
-dammage to anything immediately adjacent to it.  If another star is
+damage to anything immediately adjacent to it.  If another star is
 adjacent to a nova, it too will go nova.  Stars may also occasionally
 go supernova; a supernova in a quadrant destroys everything in the
-quadrant andmakes the quadrant permanently uninhabitable.  You may
+quadrant and makes the quadrant permanently uninhabitable.  You may
 <quote>jump over</quote> a quadrant containing a supernova when you
 move, but you should not stop there.</para>
 
@@ -216,7 +216,7 @@ written at a moderate level&mdash;no attempt has been made fully to
 describe everything about the game, but there is quite a bit more
 here than you need to get started.  If you are new to the game, just
 get a rough idea of the kinds of commands available, and start
-playing.  After a game or two you will have learned everthing
+playing.  After a game or two you will have learned everything
 important, and the detailed command descriptions which follow will be
 a lot more meaningful to you.</para>
 
@@ -237,7 +237,7 @@ and start a new game.</para>
 command-line arguments that will be treated as answers.  Any token
 may be abbreviated to a unique prefix.</para>
 
-<para>The first question concerns whether you want a regullar,
+<para>The first question concerns whether you want a regular,
 tournament, or saved game.  For discussion, see the <link
 linkend="freeze">description of the freeze command</link>.</para>
 
@@ -635,7 +635,7 @@ scans, and information in other quadrants may be obsolete.</para>
 interpreted exactly as they are on a long-range scan. A period (.) in
 place of a digit means you do not know that information yet.  For
 example, ... means you know nothing about the quadrant, while .1.
-menas you know it contains a base, but an unknown number of Klingons
+means you know it contains a base, but an unknown number of Klingons
 and stars.</para>
 
 <para>Looking at the star chart is a free operation.  It costs neither time
@@ -770,7 +770,7 @@ warp engines; this damage is larger at higher warp factors and also
 depends on how far you go at that warp factor.</para>
 
 <para>At exactly warp 10 there is some probability of entering a
-so-called <quote>time warp</quote> and being thrown foward or backward
+so-called <quote>time warp</quote> and being thrown forward or backward
 in time.  The farther you go at warp 10, the greater is the
 probability of entering the time warp.</para>
 
@@ -832,13 +832,13 @@ phasers while shields are up.  You may fire photon torpedoes, but they
 may be deflected considerably from their intended course as they pass
 through the shields (depending on shield strength).</para>
 
-<para>You may transfer energy beteen the ship's energy (given as
+<para>You may transfer energy between the ship's energy (given as
 <quote>Energy</quote> in the status) and the shields.  The word
 <quote>TRANSFER</quote> may be abbreviated <quote>T</quote>.  The
-ammount of energy to transfer is the number of units of energy you
+amount of energy to transfer is the number of units of energy you
 wish to take from the ship's energy and put into the shields.  If you
 specify an negative number, energy is drained from the shields to the
-ship.  Transfering energy constitutes a turn.  If you transfer energy
+ship.  Transferring energy constitutes a turn.  If you transfer energy
 to the shields while you are under attack, they will be at the new
 energy level when you are next hit.</para>
 
@@ -864,7 +864,7 @@ partly random.  but also depends on skill level.</para>
 <para>The average hit required to kill an ordinary Klingon varies from 200
 units in the Novice game to 250 units in the Emeritus game.
 Commanders normally require from 600 (Novice) to 700 (Emeritus).  The
-Super-commander requres from 875 (Good) to 1000 (Emeritus). Romulans
+Super-commander requires from 875 (Good) to 1000 (Emeritus). Romulans
 require an average of 350 (Novice) to 450 (Emeritus).</para>
 
 <para>Hits on enemies are cumulative, as long as you don't leave the
@@ -886,7 +886,7 @@ probability of overheat increases with the amount fired.</para>
 divide up your &lt;amount to fire&gt; among the Klingons present.  If
 phaser firing is manual, you specify how much energy to fire at each
 Klingon present (nearest first), rather than just specifying a total
-amount.  You can abreviate <quote>MANUAL</quote> and
+amount.  You can abbreviate <quote>MANUAL</quote> and
 <quote>AUTOMATIC</quote> to one or more letters; if you mention
 neither, automatic fire is usually assumed.</para>
 
@@ -1826,7 +1826,7 @@ is alive.</para>
 <para>Planets are auto-scanned when you enter the quadrant.</para>
 </listitem>
 <listitem>
-<para>Mining or using crystals in presense of enemy now yields an attack.
+<para>Mining or using crystals in presence of enemy now yields an attack.
 There are other minor adjustments to what yields an attack
 and what does not.</para>
 </listitem>
@@ -1959,21 +1959,21 @@ Reynolds:</para>
 
 <orderedlist>
 <listitem><para><citetitle>Star Trek</citetitle> (the original television
-series), produced and directed by Gene Rodenberry.</para></listitem>
+series), produced and directed by Gene Roddenberry.</para></listitem>
 
 <listitem><para><citetitle>Star Trek</citetitle> (the animated
-television series), produced by Gene Rodenberry and directed by Hal
+television series), produced by Gene Roddenberry and directed by Hal
 Sutherland.  Also excellent, and not just kiddie fare.  If you enjoyed
 the original series you should enjoy this one (unless you have some
 sort of a hangup about watching cartoons).</para></listitem>
 
 <listitem><para><citetitle>The Making of Star Trek</citetitle>, by
-Steven E. Whitfield and Gene Rodenberry.  The best and most complete
+Steven E. Whitfield and Gene Roddenberry.  The best and most complete
 readily available book about Star Trek.  (Ballantine
 Books)</para></listitem>
 
 <listitem><para><citetitle>The World of Star Trek</citetitle>, by
-David Gerrold.  Similiar in scope to the above book.
+David Gerrold.  Similar in scope to the above book.
 (Bantam)</para></listitem>
 
 <listitem><para><citetitle>The Star Trek Guide</citetitle>, third
@@ -2015,7 +2015,7 @@ feature sets by year.</para>
 <listitem><para>1971 &mdash; Mike Mayfield's original BASIC Star
 Trek.</para></listitem>
 
-<listitem><para>5 April 1973 &mdash; Grady Hicks's BASIC version fot
+<listitem><para>5 April 1973 &mdash; Grady Hicks's BASIC version for
 the Taurus.</para></listitem>
 
 <listitem><para>Summer 1973 &mdash; Dave Matuszek, Paul Reynolds, and
@@ -2025,7 +2025,7 @@ the Austin crew begin work on the UT FORTRAN version.</para></listitem>
 things, notably a job change and the birth of his first
 child.</para></listitem>
 
-<listitem><para>c.1977 &mdash; Tom Almy translates the UT FORTAN
+<listitem><para>c.1977 &mdash; Tom Almy translates the UT FORTRAN
 version to PDP-11 FORTRAN.</para></listitem>
 
 <listitem><para>21 September 1978 &mdash; This was the date on the
